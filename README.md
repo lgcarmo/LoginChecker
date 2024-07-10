@@ -1,6 +1,8 @@
 # **LoginChecker**
 
-- [x] O LoginChecker realiza a automatização do processo de validação das credenciais em portais de login. Como uma credencial já obtida ou um password spray
+- [x] O LoginChecker automatiza o processo de validação de credenciais em portais de login, facilitando tanto a verificação de credenciais já obtidas quanto a execução de técnicas como password spraying.
+
+🔍 Com essa ferramenta, você pode melhorar significativamente a eficiência e a eficácia dos testes de segurança das suas aplicações, garantindo que vulnerabilidades relacionadas a autenticações sejam rapidamente identificadas e corrigidas.
 
 **Principais opções:**
 
